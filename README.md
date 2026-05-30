@@ -17,4 +17,6 @@ By combining these targeted deduction techniques with a lightning-fast BFS, this
 
 My student number is highlighted in green (there was a tie for first place)
 
+
+<img width="556" height="28" alt="image" src="https://github.com/user-attachments/assets/afb2b278-65ba-4206-b9e9-4f542a6db21d" />
 <img width="666" height="447" alt="image" src="https://github.com/user-attachments/assets/bc7151a2-afb6-415b-989a-83d0d4b2c30e" />
